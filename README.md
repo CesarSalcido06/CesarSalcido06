@@ -50,12 +50,13 @@ Building scalable applications and self-hosted infrastructure. Currently seeking
 ### [Project Alpine](https://github.com/CesarSalcido06/projectAlpine) | [Live Demo](https://alpine.cesarsalcido.xyz)
 Full-stack productivity app with task management, goal tracking, and gamification.
 
-`Next.js` `TypeScript` `Express` `SQLite` `Docker` `JWT` `Chakra UI`
+`Next.js` `TypeScript` `Express` `SQLite` `Docker` `JWT` `Chakra UI` `PWA`
 
+- Mobile-responsive design optimized for iOS and Android browsers
+- Progressive Web App (PWA) support for native-like mobile experience
 - Multi-user auth with JWT tokens and per-user isolated databases
 - Containerized with Docker Compose on self-hosted infrastructure
 - Cloudflare SSL/proxy with DDNS for dynamic IP resolution
-- RESTful API with rate limiting and secure session management
 
 ### Self-Hosted Home Server
 Production environment running 10+ containerized services on Raspberry Pi.
